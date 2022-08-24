@@ -1,0 +1,50 @@
+body {
+    font-family: Poppins;
+}
+
+h1 {
+    font-size: 1.5rem;
+}
+
+/*============================ LANDING*/
+.landing {
+    padding: 15em 40em 0em 15em;
+}
+/* 
+.landing p {
+    padding-right: 20em;
+} */
+
+/*============================ BODY*/
+.container {
+    padding: 7.5em 15em;
+}
+
+th {
+    text-align: center;
+    padding: 0px 20px 15px 0px;
+}
+
+td {
+    text-align: center;
+    padding: 0px 20px 0px 0px;
+}
+
+/* ============================ NAVIGATION BAR*/
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    float: right;
+}
+
+nav ul a {
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav button {
+    border-radius: 20px;
+    padding: 10px 15px;
+}
