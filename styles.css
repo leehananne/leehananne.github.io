@@ -8,7 +8,7 @@ h1 {
 
 /*============================ LANDING*/
 .landing {
-    padding: 15em 40em 0em 15em;
+    padding: 13em 40em 0em 15em;
 }
 /* 
 .landing p {
@@ -16,18 +16,22 @@ h1 {
 } */
 
 /*============================ BODY*/
-.container {
-    padding: 7.5em 15em;
+div {
+    height: 100vh;
 }
 
-th {
+.container {
+    padding: 0em 15em;
+}
+
+th, td {
     text-align: center;
-    padding: 0px 20px 15px 0px;
+    padding: 0px 50px 15px 0px;
 }
 
 td {
     text-align: center;
-    padding: 0px 20px 0px 0px;
+    padding: 0px 50px 0px 0px;
 }
 
 /* ============================ NAVIGATION BAR*/
@@ -48,3 +52,4 @@ nav button {
     border-radius: 20px;
     padding: 10px 15px;
 }
+
